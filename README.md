@@ -1,2 +1,2 @@
-# hackerrank-c-solution
+# hackerrank-c++-solution
 hackerrank c++ solutions 
